@@ -1,5 +1,5 @@
 # microSD breakout
-microSD card breakout board. This board is could be useful, e.g. for FPGA based SD card emulator hardware that needs to connect to a normal microSD card slot.
+microSD card breakout board. This board could be useful, e.g. for FPGA based SD card emulator hardware that needs to connect to a normal microSD card slot.
 
 <table>
   <tr>
@@ -13,4 +13,4 @@ microSD card breakout board. This board is could be useful, e.g. for FPGA based 
 </table>
 
 ## Mechanical
-The thickness of a microSD card is 1 mm so a typical 1.6 mm thick PCB will not fit inside a microSD card slot!
+The thickness of a microSD card is 1 mm so a typical 1.6 mm PCB will not fit inside a microSD card slot!
