@@ -7,8 +7,8 @@ microSD card breakout board. This board is could be useful, e.g. for FPGA based 
     <td><b>Back</b></td>
   </tr>
   <tr>
-    <td><img src="/doc/images/front.png" alt="Front view" height="400"/></td>
-    <td><img src="/doc/images/back.png" alt="Back view" height="400"/></td>
+    <td><img src="/doc/images/front.png" alt="Front view" width="400"/></td>
+    <td><img src="/doc/images/back.png" alt="Back view" width="480"/></td>
   </tr>
 </table>
 
